@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="400"
+   viewBox="0 0 508 105.83374"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="bar_label.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     height="700px"
+     inkscape:zoom="0.925"
+     inkscape:cx="954.59459"
+     inkscape:cy="411.89189"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5558px;line-height:1.25;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="11.906819"
+       y="75.185852"
+       id="text1514"><tspan
+         sodipodi:role="line"
+         id="tspan1512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5558px;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;stroke-width:0.264584"
+         x="11.906819"
+         y="75.185852">進捗率</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.1948px;line-height:1.25;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="368.84586"
+       y="81.553947"
+       id="text1514-6"><tspan
+         sodipodi:role="line"
+         id="tspan1512-17"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.1948px;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;stroke-width:0.264584"
+         x="368.84586"
+         y="81.553947">16%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5558px;line-height:1.25;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="284.92261"
+       y="73.58345"
+       id="text1514-2"><tspan
+         sodipodi:role="line"
+         id="tspan1512-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70.5558px;font-family:'Yusei Magic';-inkscape-font-specification:'Yusei Magic';fill:#ffd5d5;stroke-width:0.264584"
+         x="284.92261"
+         y="73.58345" /></text>
+    <rect
+       style="fill:#ffd5d5;stroke-width:0.264584"
+       id="rect611"
+       width="476.97092"
+       height="6.123735"
+       x="16.669191"
+       y="91.856018" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5834px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="286.03616"
+       y="66.932693"
+       id="text9130"><tspan
+         sodipodi:role="line"
+         id="tspan9128"
+         style="stroke-width:0.264584"></tspan></text>
+  </g>
+</svg>
