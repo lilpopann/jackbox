@@ -1,0 +1,96 @@
+.navigator-bar {
+    background-color: #000000;
+    margin-left:auto;
+    margin-right:auto;
+    overflow: hidden;
+    line-height: 100px;
+    height: 150px;
+}
+
+.navigator-bar-block {
+    float: right;
+    margin-right:60px;
+}
+
+.navigator-bar-block a {
+    font-family: 'ＭＳ Ｐゴシック', 'MS PGothic';
+    color: #06f;
+    text-align: right;
+    text-decoration: none;
+    font-size: 42px;
+}
+
+.navigator-bar-block a:hover {
+    color: #6EC1E4;
+}
+
+.navigator-bar a {
+    float: left;
+    padding: 16px;
+}
+
+.news-bar {
+    background-color: #f1f1f1;
+    overflow: hidden;
+    line-height: 100px;
+    height: 170px;
+    margin-top:50px;
+    margin-left:300px;
+    margin-right:300px;
+}
+
+.news-bar-block {
+    text-align: center;
+    line-height: 170px;
+    height: 170px;
+}
+
+.news-bar-block a {
+    font-family: 'ＭＳ Ｐゴシック', 'MS PGothic';
+    color: #000000;
+    text-decoration: none;
+    font-size: 64px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.news-row {
+    display: table;
+    margin-top:-50px;
+    margin-left:290px;
+    border-spacing: 115px;
+}
+
+.news-item {
+    display: table-cell;
+    background-color: #f1f1f1;
+    overflow: hidden;
+    line-height: 300px;
+    height: 300px;
+    width: 500px;
+}
+
+.news-label {
+    text-decoration: none;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.news-label-title {
+    font-family: 'ＭＳ Ｐゴシック', 'MS PGothic';
+    color: #000000;
+    margin-top:-250px;
+    font-size: 40px;
+}
+
+.news-label-timecode {
+    font-family: 'Roboto Condensed',sans-serif;
+    color: #adadad;
+    margin-left:-10px;
+    margin-top:-280px;
+    font-size: 20px;
+}
+
+body{
+margin: 0px
+}
